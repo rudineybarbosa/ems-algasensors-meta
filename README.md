@@ -1,2 +1,2 @@
-# ems-algasensor-meta
+# ems-algasensors-meta
 Root projetc for algensor modules 
